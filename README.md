@@ -118,9 +118,9 @@ blogify-ai/
 
 
 SCREENSHOTS
-
-<img width="1535" height="891" alt="image" src="https://github.com/user-attachments/assets/c3fff94d-3123-405e-8c97-375ff7fc9976" />
 MAIN PAGE
+<img width="1535" height="891" alt="image" src="https://github.com/user-attachments/assets/c3fff94d-3123-405e-8c97-375ff7fc9976" />
+
 
 <img width="850" height="708" alt="image" src="https://github.com/user-attachments/assets/201fc502-abb3-4545-9f45-3b18e8500acd" />
 SIGN IN/SIGN UP PAGE
@@ -134,6 +134,10 @@ USER PROFILE
 <img width="1460" height="888" alt="image" src="https://github.com/user-attachments/assets/be70c8e2-d379-43f1-a264-7aef146161be" />
 <img width="1437" height="870" alt="image" src="https://github.com/user-attachments/assets/c5bc5ea3-17af-459c-9b8f-c9b1f21f200f" />
 USER ANALYTICS DASHBOARD
+
+
+<img width="1403" height="868" alt="image" src="https://github.com/user-attachments/assets/4d147c08-b158-4217-847f-2ee80d5c67be" />
+
 
 
 
